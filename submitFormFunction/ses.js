@@ -4,7 +4,7 @@
 'use strict'
 
 const AWS = require('aws-sdk')
-AWS.config.update({ region: process.env.AWS_REGION || 'us-east-1' })
+AWS.config.update({ region: process.env.AWS_REGION || 'eu-north-1' })
 const SES = new AWS.SES()
 
 const sendEmail = async function (formData) {
