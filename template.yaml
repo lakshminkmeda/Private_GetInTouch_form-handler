@@ -8,7 +8,7 @@ Parameters:
     Type: String
     Description: (Required) A validated SES email address for receiving new submissions.
     MaxLength: 70
-    Default: mailman@oncloud9.net
+    Default: lakshmi_nareen@live.com
     MinLength: 4
     ConstraintDescription: Required. Must be a SES verified email address.
 

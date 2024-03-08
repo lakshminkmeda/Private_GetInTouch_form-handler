@@ -35,7 +35,7 @@ const sendEmail = async function (formData) {
         },
         Subject: {
           Charset: 'UTF-8',
-          Data: 'New Form Submission'
+          Data: 'New WebForm Submission'
         },
       },
     }
