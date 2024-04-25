@@ -35,7 +35,7 @@ const sendEmail = async function (formData) {
         },
         Subject: {
           Charset: 'UTF-8',
-          Data: 'New WebForm Submission'
+          Data: 'New Form Submitted at Oncloud9.net'
         },
       },
     }
