@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Lakshmi N K Meda, Amazon",
+  "author": "Lakshmi N K Meda",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.1440.0"
